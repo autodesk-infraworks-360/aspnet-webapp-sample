@@ -6,7 +6,7 @@ This sample uses the InfraWorks 360 REST API to read user data hosted on the Aut
 
 ##Dependencies
 
-* This sample uses the [RestSharp](http://restsharp.org), [SharpSquare](https://github.com/TICLAB/SharpSquare). You can add it to your project using NuGet in Visual Studio. Also the [InfraWorks 360 REST API Library](https://github.com/ADN-DevTech/Infraworks_API_Samples). 
+This sample uses the [RestSharp](http://restsharp.org), [SharpSquare](https://github.com/TICLAB/SharpSquare). You can add it to your project using NuGet in Visual Studio. Also the [InfraWorks 360 REST API Library](https://github.com/ADN-DevTech/Infraworks_API_Samples). 
 
 ##Live sample
 
